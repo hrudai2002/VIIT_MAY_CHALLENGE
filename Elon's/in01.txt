@@ -1,0 +1,11 @@
+3
+2 2
+L W
+L W
+4 4
+L W W L
+W W L W
+W L W W
+L W W L
+1 5
+W W W L L
